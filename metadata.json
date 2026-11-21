@@ -1,0 +1,6 @@
+{
+  "name": "Growvia",
+  "description": "Ontario marketing agency helping small and mid-size businesses grow with Facebook & Instagram ads, Google Ads, content production, and high-converting websites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
